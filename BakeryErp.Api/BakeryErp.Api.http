@@ -1,0 +1,6 @@
+@BakeryErp.Api_HostAddress = http://localhost:5144
+
+GET {{BakeryErp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
